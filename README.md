@@ -1,7 +1,7 @@
 # Hi there, I'm Ayelet 👋
 
-👩‍💻 **Data Scientist | M.Sc. Student**  
-Specializing in **Time Series Analysis** and **Computer Vision**  
+👩‍💻 **Data Scientist | M.Sc.Graduate**  
+Specializing in **data**-related transformations and manipulations, **Machine Learning**, **Deep Learning**, **Time Series Analysis** and **Computer Vision**  
 Recently finished my Master’s degree and passionate about uncovering insights from data.
 
 ## 🛠️ Skills & Tools
