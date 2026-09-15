@@ -10,9 +10,7 @@ Recently finished my Master’s degree and passionate about uncovering insights 
 - **Libraries:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch
 
 ## 🚀 Projects
-*Coming soon!*  
-Stay tuned for highlights of my favorite work in Data Science, Time Series, and Computer Vision.
-
+Recently uploaded a WordFinder project using RAG and LLM
 ## 🎓 About Me
 - Always learning and growing in the field of data science
 - Enjoy translating data into actionable insights and innovative solutions
